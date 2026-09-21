@@ -1,29 +1,23 @@
 # Vinnuferli
 
 ## Hópavinna og geymsla 
-
-Takið fram hverjir eru í hópnum, hver verkaskiptinging er, hvert Git repository er. 
-Hver og einn á að setja inn og viðhalda geymslunni (Git)
+Hópmeðlimir: Bali, Kristinn
+Git repo: https://github.com/BaliVeselaj204/HBV301G-Verkefni2.git
 
 ## Verkaskipting
-- Segið hvernig þið skiptið með ykkur verkum, t.d. hvernig þið unnið kröfurnar ein eða alltaf saman
-- Hvernig þið rýnduð kröfurnar hjá hvert öðru
-- Hvernig þið gerðuð pull, commit og push og Pull Request
+Við greindum hagsmunaaðila og hugsanlega árekstra saman og ræddum verkefnið þar til við vorum sammála um helstu atriðin.
+Því næst skiptum við verkum: einn skrifaði niðurstöðurnar í STAKEHOLDERS.md og CONFLICTS.md, og hinn sá um hin skjölin.
+Þrátt fyrir verkaskiptinguna tókum við bæði þátt í gegnum allt ferlið — hvert verk fór alltaf í gegnum pull request,
+þar sem hitt okkar rýndi breytingarnar og annaðhvort samþykkti og sameinaði í main, eða benti á það sem þurfti að laga.
 
 ## Ígrundun
-- Í lok verkefnis gerið endurmat á verkefninu:
-    - Hvað gekk vel í verkefninu
-    - Hvað má bæta næst
+Flest gekk vel. Við náðum ekki að hittast mjög oft, en þar sem við erum í mörgum námskeiðum saman gátum við alltaf
+talað saman um hvar við vorum stödd og hvað kæmi næst. Svo höfðum við líka samband í gegnum discord þegar við höfðum
+spurningar um eitthvað tengt verkefninu.
 
 ### Gagnsæisyfirlýsing um notkun gervigreindar
-
-Ef þið notið gervigreind við vinnslu verkefnisins skal koma fram:
-
-- hvaða gervigreindarverkfæri voru notuð,
-- hvaða kvaðningar (prompts) voru notaðar,
-- í hvaða tilgangi gervigreind var notuð,
-- hvernig þið breyttuð gervigreindarúttakinu og/eða nýttuð það?
-
-Þið skuluð einnig lýsa því yfir að þið hafið yfirfarið efni sem kemur frá gervigreind og berið ábyrgð á öllu efni sem þið skilið.
-Ef gervigreind var ekki notuð við vinnslu verkefnisins skal það koma fram í gagnsæisyfirlýsingunni.
-
+Við notuðum aðallega Claude til að koma verkefninu af stað. Við spurðum spurninga um atriði tengd verkefninu sem við höfðum
+ekki svör við á staðnum, t.d. um hagsmunaaðilagreiningu, árekstra og Git-verkflæði. Þar sem gervigreindin var fyrst og fremst
+notuð til að afla upplýsinga og hugmyndir, notuðum við fleiri og smærri kvaðningar frekar en fáar og stórar. Okkur fannst svörin
+oft ekki fullkomin eða í fullu samræmi við okkar eigin kerfi, svo við fórum yfir úttakið, löguðum það sem átti ekki við og spurðum
+frekari spurninga þegar eitthvað var óskýrt.
