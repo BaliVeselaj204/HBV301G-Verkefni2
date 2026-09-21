@@ -7,7 +7,7 @@ Taktu út textann sem er leiðbeiningatexti frá kennara um verkefnið
 Sjálfvirkt bílastæðakerfi
 Verkefni 2 – Hagsmunaaðilar, persónur og árekstrar
 
-Verkefni í HBV301G þar sem unnið er að kröflugreiningu fyrir sjálfvirkt bílastæðakerfi. 
+Verkefni í HBV301G þar sem unnið er að kröfugreiningu fyrir sjálfvirkt bílastæðakerfi. 
 Kerfinu er ætlað að skrá ökutæki og stæðistíma sjálfkrafa og tryggja að rétt greiðslubeiðni berist réttum aðila. 
 Markmiðið er að einfalda ferlið fyrir ökumenn og koma í veg fyrir sektir vegna gleymdrar skráningar eða greiðslu.
 
